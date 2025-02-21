@@ -39,7 +39,7 @@ body{
     object-fit: cover;
     border-radius: 20px;
     /* box-shadow: 20px 20px 20px #80B9DC ; */
-    filter: drop-shadow(15px 15px #0074B9);
+    /* filter: drop-shadow(15px 15px #0074B9); */
 }
 
 .btn {
